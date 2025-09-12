@@ -18,7 +18,7 @@ const MESSAGE = process.env.MESSAGE ||  `
 *💪 Empowering Your Experience with Caseyrhodes MD Bot*
 
 *🌟 Show your support by giving our repo a star! 🌟*
-🔗 https://github.com/caseyweb/CASEYRHODES-XMD
+🔗 https://github.com/BroWaYesu/BROWAYESU-XMD
 
 *💭 Need help? Join our support channel:*
 📢 💬
